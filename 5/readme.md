@@ -1,0 +1,5 @@
+NIM : 1811500003<br>
+NAMA LENGKAP : OKTORI AMANDA<br>
+KELOMPOK : TI6J<br>
+<br>
+<br>
