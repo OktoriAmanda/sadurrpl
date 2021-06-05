@@ -1,8 +1,0 @@
-Nim: 1811500003
-Nama: Oktori Amanda
-kelompok: TI6J
-
-Hasil saya mengadur:
-1) Ada tugas menyadur tiap pertemuan dan ditaruh di github
-2) Buat kelompok pertemuan sebanyak 3 orang mahasiswa / kelompok
-3) dst
